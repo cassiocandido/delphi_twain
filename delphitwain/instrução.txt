@@ -1,0 +1,2 @@
+Pega-se os .pas, .inc e .res desta pasta para gerar o componente.
+Cássio Cândido 25/03/2015
