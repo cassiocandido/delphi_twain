@@ -1,0 +1,2 @@
+Os arquivos desta pasta são excluídos e gera-se o componente a
+partir dos arquivos que estão dentro da pasta delphitwain.
